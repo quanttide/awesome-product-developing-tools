@@ -1,2 +1,3 @@
-# awesome-software-developing-tools
-Awesome Software Development Tools
+# `awesome-product-developing-tools`
+
+Awesome Software Product Development Tools
